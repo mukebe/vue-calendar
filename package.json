@@ -1,0 +1,26 @@
+{
+  "name": "muke-vue-calendar",
+  "version": "0.0.1",
+  "description": "Calendar",
+  "main": "components/Clock.vue",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimani/vue-just-another-dropdown.git"
+  },
+  "keywords": [
+    "VueJs",
+    "dropdown",
+    "select",
+    "ui",
+    "select2",
+    "multiselect"
+  ],
+  "author": "info@muke.be",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
